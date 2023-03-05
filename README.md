@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HazemuH
-- 👀 I’m interested in Cybersecurity and Website Developer
-- 🌱 I’m currently learning React Js
+- 👀 I’m a Backend Developer that interested in Cybersecurity and Website Development
+- 🌱 I’m currently learning Java Spring-Boot
 - 📫 How to reach me, just email me on haikalzhafran05@gmail.com
 
 <!---
